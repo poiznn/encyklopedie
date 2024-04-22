@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding-left: 3vh;
+}
+
+.heading  {
+  text-decoration: underline;
+}
+
+.image-size {
+  height: 200px;
+}
+
+.box {
+  padding-top: 10vh;
+}
